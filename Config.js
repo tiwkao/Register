@@ -4,7 +4,7 @@ const APP_CONFIG = {
 
     // LIFF IDs
     LIFF_ID: {
-        REGISTER: '2009491543-RLWQhb6f',  // LIFF ID สำหรับหน้าลงทะเบียน
+        REGISTER: '2009491543-0Byfw5ux',  // LIFF ID สำหรับหน้าลงทะเบียน
         PROFILE: '2009491543-ckDAo6ET'     // LIFF ID สำหรับหน้าโปรไฟล์
     }
 };
